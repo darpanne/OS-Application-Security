@@ -1,5 +1,3 @@
-# OS-Application-Security
-
 # OS and Application Security Techniques
 
 ## Objective
