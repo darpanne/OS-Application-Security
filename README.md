@@ -68,7 +68,5 @@ To explore and implement security mechanisms for operating systems and applicati
 ![image](https://github.com/user-attachments/assets/aea387b6-8725-4fe5-af1d-73ffeb50c274)
 ![image](https://github.com/user-attachments/assets/6721ac85-b574-4b9d-95e8-c685a4a2239f)
 ![image](https://github.com/user-attachments/assets/80b9e337-ac28-46cc-9663-01e244a6ac57)
-![image](https://github.com/user-attachments/assets/b07c2fea-7fbd-4593-8570-7b03790ea8df)
-
 - Network interface restart, system info (uname), ping tests, and tcpdump packet capture for analysis.
 
